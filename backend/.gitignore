@@ -1,0 +1,9 @@
+node_modules/
+.env
+logs/
+*.log
+tmp/
+*.swp
+node_modules/
+.env
+.env
